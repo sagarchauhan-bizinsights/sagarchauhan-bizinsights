@@ -1,7 +1,3 @@
-Here’s your `README.md` with the known details filled in:
-
----
-
 # Hi there, I'm Sagar Chauhan 👋
 
 I'm a passionate Android developer with 3.9+ years of experience in building high-quality mobile applications. My expertise lies in creating seamless and efficient Android apps using Java, with a growing interest in Kotlin. I enjoy taking on challenging projects, whether it's creating a new app from scratch or enhancing the performance and usability of existing applications.
