@@ -25,10 +25,10 @@ I'm a passionate Android developer with 3.9+ years of experience in building hig
 | **Signatize**   | A digital signature app that simplifies document signing and sharing.       | [Google Play](https://play.google.com/store/apps/details?id=com.signatize) |
 | **Managemate**  | An all-in-one management tool for businesses to streamline operations.      | [Google Play](https://play.google.com/store/apps/details?id=com.managemate) |
 | **Saath Band**  | A backing tracks app designed for musicians to practice with live accompaniments. | [Google Play](https://play.google.com/store/apps/details?id=com.saathband) |
-| **Saath Tabla** | A variant of Saath Studio, focusing on tabla accompaniment for musicians.   | [Google Play](https://play.google.com/store/apps/details?id=com.saathtabla) |
+| **Saath Tabla** | A variant of Saath Studio, focusing on tabla accompaniment for musicians.   | [Google Play](https://play.google.com/store/apps/details?id=com.saathstudio1) |
 | **Saath Lehra** | A simplified version of Saath Studio focused on lehra accompaniment.        | [Google Play](https://play.google.com/store/apps/details?id=com.saathlehra) |
 | **Archezy**     | A comprehensive platform for architectural project management, providing tools for collaboration, scheduling, and quality control in design and construction.| Private Project |
-| **FindPanditji**| An app to find and book pandits for religious ceremonies with ease.         | [Google Play](https://play.google.com/store/apps/details?id=com.findpanditji) |
+| **FindPanditji**| An app to find and book pandits for religious ceremonies with ease.         | [Google Play](https://play.google.com/store/apps/details?id=findPanditji.findPanditji) |
 | **Pandya Astrology** | A mobile app for astrology services and consultations.                | Private Project |
 | **Click Advertisement** | An ad management platform for creating and managing digital ads.    | Private Project |
 | **Warehouse Management** | A system designed to manage inventory, track shipments, and optimize storage. | Private Project |
